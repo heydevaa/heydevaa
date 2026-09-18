@@ -43,11 +43,9 @@ The list of projects will grow as i build.
 - Full Stack Development
 
 ## Education
-
-**Pursuing B. Tech in CSE-Artifical Intelligence & Data Science from Lakshmi Narayan College of Technology, Bhopal**
-**Completed Senior Secondary Education from Kendriya Vidyalaya Sarni**
-**Completed Secondary Education from Kendriya Vidyalaya Sarni**
-
+- Pursuing B. Tech in CSE-Artifical Intelligence & Data Science from Lakshmi Narayan College of Technology, Bhopal
+- Completed Senior Secondary Education from Kendriya Vidyalaya Sarni
+- Completed Secondary Education from Kendriya Vidyalaya Sarni
 
 ## Goal
 
