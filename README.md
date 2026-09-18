@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Devanshu
 
-<!--
-**heydevaa/heydevaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am B. Tech in Computer Science and Engineering (CSE) with Data Science & AI as interests and passionate about developing software solutions. I'm currently enhancing my problem-solving skills in Java and DSA and working on few useful projects.
 
-Here are some ideas to get you started:
+## What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Structures & Algorithms in Java
+- Python and Data Science
+- Full Stack Development
+- Problem solving at Leet Code
+- Building useful projects
+
+## Tech Stack
+
+### Languages
+- Java
+- Python
+- SQL
+
+### Web & Development
+- HTML
+- CSS
+- JavaScript
+- Flask
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- Vs Code
+
+## Projects
+
+- **Student Performance Analysis System** - Flask, sqlite Powered Project
+
+The list of projects will grow as i build.
+
+## Currently learning
+
+- DSA and problem-solving
+- Python for Data Science
+- Machine learning
+- Full Stack Development
+
+## Education
+
+**Pursuing B. Tech in CSE-Artifical Intelligence & Data Science from Lakshmi Narayan College of Technology, Bhopal**
+**Completed Senior Secondary Education from Kendriya Vidyalaya Sarni**
+**Completed Secondary Education from Kendriya Vidyalaya Sarni**
+
+
+## Goal
+
+To get solid problem-solving skills and to build more good projects and grow as a developer in Data Science and AI.
