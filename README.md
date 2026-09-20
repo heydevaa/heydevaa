@@ -66,6 +66,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/heydevaa/heydevaa/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/heydevaa/heydevaa/tree/main/1929-concatenation-of-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/heydevaa/heydevaa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +75,8 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/heydevaa/heydevaa/tree/main/0054-spiral-matrix/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/heydevaa/heydevaa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
