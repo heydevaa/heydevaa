@@ -56,6 +56,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/heydevaa/heydevaa/tree/main/0054-spiral-matrix/) | Medium |
 | [0283-move-zeroes](https://github.com/heydevaa/heydevaa/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/heydevaa/heydevaa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/heydevaa/heydevaa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -63,9 +64,14 @@ To get solid problem-solving skills and to build more good projects and grow as 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/heydevaa/heydevaa/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/heydevaa/heydevaa/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/heydevaa/heydevaa/tree/main/0283-move-zeroes/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/heydevaa/heydevaa/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
