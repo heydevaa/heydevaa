@@ -59,6 +59,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0054-spiral-matrix](https://github.com/heydevaa/heydevaa/tree/main/0054-spiral-matrix/) | Medium |
 | [0283-move-zeroes](https://github.com/heydevaa/heydevaa/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/heydevaa/heydevaa/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/heydevaa/heydevaa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/heydevaa/heydevaa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1929-concatenation-of-array](https://github.com/heydevaa/heydevaa/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
@@ -79,4 +80,8 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/heydevaa/heydevaa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/heydevaa/heydevaa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
