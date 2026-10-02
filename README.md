@@ -74,6 +74,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/heydevaa/heydevaa/tree/main/0283-move-zeroes/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/heydevaa/heydevaa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/heydevaa/heydevaa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/heydevaa/heydevaa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -95,4 +97,8 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/heydevaa/heydevaa/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
