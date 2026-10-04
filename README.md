@@ -56,6 +56,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/heydevaa/heydevaa/tree/main/0015-3sum/) | Medium |
 | [0054-spiral-matrix](https://github.com/heydevaa/heydevaa/tree/main/0054-spiral-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heydevaa/heydevaa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -76,6 +77,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/heydevaa/heydevaa/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/heydevaa/heydevaa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/heydevaa/heydevaa/tree/main/0283-move-zeroes/) | Easy |
@@ -102,6 +104,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/heydevaa/heydevaa/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/heydevaa/heydevaa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
