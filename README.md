@@ -67,6 +67,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/heydevaa/heydevaa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/heydevaa/heydevaa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1929-concatenation-of-array](https://github.com/heydevaa/heydevaa/tree/main/1929-concatenation-of-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/heydevaa/heydevaa/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/heydevaa/heydevaa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0283-move-zeroes](https://github.com/heydevaa/heydevaa/tree/main/0283-move-zeroes/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/heydevaa/heydevaa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/heydevaa/heydevaa/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/heydevaa/heydevaa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/heydevaa/heydevaa/tree/main/0125-valid-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/heydevaa/heydevaa/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/heydevaa/heydevaa/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/heydevaa/heydevaa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
