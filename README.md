@@ -79,6 +79,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | ------- | ------- |
 | [0015-3sum](https://github.com/heydevaa/heydevaa/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/heydevaa/heydevaa/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/heydevaa/heydevaa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/heydevaa/heydevaa/tree/main/0283-move-zeroes/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/heydevaa/heydevaa/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -91,6 +92,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/heydevaa/heydevaa/tree/main/0125-valid-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/heydevaa/heydevaa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/heydevaa/heydevaa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Math
