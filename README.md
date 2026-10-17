@@ -70,6 +70,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/heydevaa/heydevaa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1929-concatenation-of-array](https://github.com/heydevaa/heydevaa/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/heydevaa/heydevaa/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heydevaa/heydevaa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/heydevaa/heydevaa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -130,8 +131,13 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/heydevaa/heydevaa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/heydevaa/heydevaa/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heydevaa/heydevaa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/heydevaa/heydevaa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heydevaa/heydevaa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
