@@ -66,6 +66,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0485-max-consecutive-ones](https://github.com/heydevaa/heydevaa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/heydevaa/heydevaa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/heydevaa/heydevaa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/heydevaa/heydevaa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/heydevaa/heydevaa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1929-concatenation-of-array](https://github.com/heydevaa/heydevaa/tree/main/1929-concatenation-of-array/) | Easy |
@@ -125,17 +126,20 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/heydevaa/heydevaa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/heydevaa/heydevaa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/heydevaa/heydevaa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/heydevaa/heydevaa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/heydevaa/heydevaa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/heydevaa/heydevaa/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/heydevaa/heydevaa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heydevaa/heydevaa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/heydevaa/heydevaa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/heydevaa/heydevaa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
