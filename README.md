@@ -67,6 +67,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0643-maximum-average-subarray-i](https://github.com/heydevaa/heydevaa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/heydevaa/heydevaa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/heydevaa/heydevaa/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/heydevaa/heydevaa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/heydevaa/heydevaa/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/heydevaa/heydevaa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -141,6 +142,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0209-minimum-size-subarray-sum](https://github.com/heydevaa/heydevaa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/heydevaa/heydevaa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/heydevaa/heydevaa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/heydevaa/heydevaa/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/heydevaa/heydevaa/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/heydevaa/heydevaa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/heydevaa/heydevaa/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
