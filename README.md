@@ -105,6 +105,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0125-valid-palindrome](https://github.com/heydevaa/heydevaa/tree/main/0125-valid-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/heydevaa/heydevaa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/heydevaa/heydevaa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/heydevaa/heydevaa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/heydevaa/heydevaa/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/heydevaa/heydevaa/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/heydevaa/heydevaa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -134,6 +135,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/heydevaa/heydevaa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/heydevaa/heydevaa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/heydevaa/heydevaa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/heydevaa/heydevaa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/heydevaa/heydevaa/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/heydevaa/heydevaa/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/heydevaa/heydevaa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/heydevaa/heydevaa/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/heydevaa/heydevaa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/heydevaa/heydevaa/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heydevaa/heydevaa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
@@ -153,6 +156,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/heydevaa/heydevaa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/heydevaa/heydevaa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/heydevaa/heydevaa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
