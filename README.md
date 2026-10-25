@@ -107,6 +107,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0680-valid-palindrome-ii](https://github.com/heydevaa/heydevaa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/heydevaa/heydevaa/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/heydevaa/heydevaa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/heydevaa/heydevaa/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/heydevaa/heydevaa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/heydevaa/heydevaa/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/heydevaa/heydevaa/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -153,6 +154,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/heydevaa/heydevaa/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/heydevaa/heydevaa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/heydevaa/heydevaa/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/heydevaa/heydevaa/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/heydevaa/heydevaa/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/heydevaa/heydevaa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/heydevaa/heydevaa/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -168,5 +170,10 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heydevaa/heydevaa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/heydevaa/heydevaa/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heydevaa/heydevaa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/heydevaa/heydevaa/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 <!---LeetCode Topics End-->
