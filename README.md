@@ -62,6 +62,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heydevaa/heydevaa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/heydevaa/heydevaa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/heydevaa/heydevaa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/heydevaa/heydevaa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/heydevaa/heydevaa/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/heydevaa/heydevaa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/heydevaa/heydevaa/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -147,6 +148,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heydevaa/heydevaa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/heydevaa/heydevaa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/heydevaa/heydevaa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/heydevaa/heydevaa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/heydevaa/heydevaa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/heydevaa/heydevaa/tree/main/1052-grumpy-bookstore-owner/) | Medium |
@@ -170,6 +172,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heydevaa/heydevaa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/heydevaa/heydevaa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/heydevaa/heydevaa/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heydevaa/heydevaa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Counting
