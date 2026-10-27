@@ -111,12 +111,14 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/heydevaa/heydevaa/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/heydevaa/heydevaa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/heydevaa/heydevaa/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/heydevaa/heydevaa/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/heydevaa/heydevaa/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/heydevaa/heydevaa/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/heydevaa/heydevaa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/heydevaa/heydevaa/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/heydevaa/heydevaa/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/heydevaa/heydevaa/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/heydevaa/heydevaa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/heydevaa/heydevaa/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/heydevaa/heydevaa/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/heydevaa/heydevaa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
