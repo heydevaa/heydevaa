@@ -73,6 +73,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/heydevaa/heydevaa/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/heydevaa/heydevaa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/heydevaa/heydevaa/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/heydevaa/heydevaa/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1929-concatenation-of-array](https://github.com/heydevaa/heydevaa/tree/main/1929-concatenation-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/heydevaa/heydevaa/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/heydevaa/heydevaa/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -108,6 +109,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0680-valid-palindrome-ii](https://github.com/heydevaa/heydevaa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/heydevaa/heydevaa/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/heydevaa/heydevaa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/heydevaa/heydevaa/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/heydevaa/heydevaa/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/heydevaa/heydevaa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/heydevaa/heydevaa/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
