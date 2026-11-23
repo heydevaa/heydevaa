@@ -120,6 +120,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/heydevaa/heydevaa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/heydevaa/heydevaa/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/heydevaa/heydevaa/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
