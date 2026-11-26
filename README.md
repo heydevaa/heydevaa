@@ -60,6 +60,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0054-spiral-matrix](https://github.com/heydevaa/heydevaa/tree/main/0054-spiral-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heydevaa/heydevaa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/heydevaa/heydevaa/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/heydevaa/heydevaa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/heydevaa/heydevaa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/heydevaa/heydevaa/tree/main/0217-contains-duplicate/) | Easy |
@@ -207,4 +208,8 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/heydevaa/heydevaa/tree/main/0705-design-hashset/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/heydevaa/heydevaa/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
