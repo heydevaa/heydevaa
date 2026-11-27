@@ -97,6 +97,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | [0088-merge-sorted-array](https://github.com/heydevaa/heydevaa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/heydevaa/heydevaa/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/heydevaa/heydevaa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/heydevaa/heydevaa/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/heydevaa/heydevaa/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/heydevaa/heydevaa/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/heydevaa/heydevaa/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -125,6 +126,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/heydevaa/heydevaa/tree/main/0202-happy-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/heydevaa/heydevaa/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/heydevaa/heydevaa/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/heydevaa/heydevaa/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -187,6 +189,7 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heydevaa/heydevaa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0202-happy-number](https://github.com/heydevaa/heydevaa/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/heydevaa/heydevaa/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/heydevaa/heydevaa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/heydevaa/heydevaa/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -213,4 +216,8 @@ To get solid problem-solving skills and to build more good projects and grow as 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/heydevaa/heydevaa/tree/main/0136-single-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/heydevaa/heydevaa/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
